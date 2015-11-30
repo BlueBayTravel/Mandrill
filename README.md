@@ -2,6 +2,8 @@
 
 Laravel 5 wrapper for the [Mandrill](https://mandrillapp.com/api/docs/) API with multiple connections.
 
+[![Build Status](https://travis-ci.org/BlueBayTravel/Mandrill.svg)](https://travis-ci.org/BlueBayTravel/Mandrill)
+
 ```php
 // Return the users on the Mandrill account.
 Mandrill::users()
