@@ -2,7 +2,7 @@
 
 Laravel 5 wrapper for the [Mandrill](https://mandrillapp.com/api/docs/) API with multiple connections.
 
-[![Build Status](https://travis-ci.org/BlueBayTravel/Mandrill.svg?style=flat)](https://travis-ci.org/BlueBayTravel/Mandrill)
+[![Build Status](https://img.shields.io/travis/BlueBayTravel/Mandrill.svg?style=flat-square)](https://travis-ci.org/BlueBayTravel/Mandrill)
 [![StyleCI](https://styleci.io/repos/47120064/shield?style=flat)](https://styleci.io/repos/47120064)
 
 ```php
